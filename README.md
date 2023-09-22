@@ -1,4 +1,4 @@
 
 Live Website
 
-utkarshportfolio2.netlify.app
+https://utkarshportfolio2.netlify.app/
