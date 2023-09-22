@@ -17,11 +17,7 @@ const About = () => {
               <p>Hi. I'm Utkarsh Kumar, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>A recent graduate with a strong passion for web development. Armed with a good understanding of the MERN stack, I'm eager to dive into the world of technology and contribute to innovative web applications. My educational background in BTech has provided me with a strong foundation, and I'm excited to apply my knowledge and problem-solving skills to real-world projects. I'm a quick learner, a team player, and I'm actively seeking opportunities to collaborate and grow in the tech industry. Let's connect and explore the possibilities together.</p>  
             </div>
           </div>
       </div>
