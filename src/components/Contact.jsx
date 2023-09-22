@@ -16,7 +16,7 @@ const Contact = () => {
   };
 
   return (
-    <div name='contact' className='w-full h-screen bg-[#0a192f] flex justify-center items-center pt-20'>
+    <div name='contact' className='w-full h-1800px bg-[#0a192f] flex justify-center items-center pt-20'>
 
       <form  ref={form} onSubmit ={sendEmail} action="" className='flex flex-col max-w-[600px] w-full'>
         <div className='pb-8'>
